@@ -30,8 +30,6 @@ This project generates animated 3D financial visualizations inspired by quant re
 - [matplotlib 3D plotting (official)](https://matplotlib.org/stable/gallery/mplot3d/index.html)
 - [Principal Component Analysis (Wikipedia)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [Quantitative Finance (Wikipedia)](https://en.wikipedia.org/wiki/Quantitative_analysis_(finance))
-- [Forking a repo (GitHub Docs)](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-
 
 Feel free to modify, extend, or use this project for your own quant research visualizations!
 
